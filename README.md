@@ -5,7 +5,7 @@
 โค้ดอาจจะดูน่าเกลียดไปบ้างแต่ก็ใช้งานได้ เชิญแก้ไขกันได้ตามสะดวก
 
 I was created this theme last year (2015) but never use it. 
-I decide to publish this theme for free. I know my code is quite ugly but, 
+I decide to publish this theme for free. I know my code looks ugly but 
 it displays quite good on many resolutions. You can modify it as much as you want.
 
 ขอขอบคุณฟรีรูปภาพสวยๆ จาก [unsplash.com](https://unsplash.com)
